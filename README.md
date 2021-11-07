@@ -43,10 +43,8 @@ npx tsc --init
   - production code (transpiled js) goes into &rarr; `outDir`
   - source code will be the &rarr; `rootDir`
 - Browsers still cannot see index.ts files
-  - still need to bring `.js` version in html files for instance
-    ```html
-    <script src="index.js"></script>
-    ```
+  - still need to bring `.js` version in html files for instance for script tags
+    - `<script src="index.js"></script>`
 
 ### Setup
 
@@ -54,8 +52,8 @@ npx tsc --init
 npx create-react-app my-app --template typescript
 ```
 
-### TypeScript Cheat Sheet
+### TypeScript Cheat Sheet + Tutorial Video
 
 [Basic Types, Enums, Types, Interfaces, Classes, Functions, Generics](./src/index.ts)
 
-[Video Tutorial] (https://www.youtube.com/watch?v=BCg4U1FzODs)
+[![Link to Tutorial](https://img.youtube.com/vi/BCg4U1FzODs/0.jpg)](https://www.youtube.com/watch?v=BCg4U1FzODs)
