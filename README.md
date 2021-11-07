@@ -35,6 +35,7 @@ npx tsc --watch index
 ```
 
 - compiler runs live while you are coding so changes reflect in the js code
+- you also get to see live compile time errors everytime you save
 
 ### Config Files `tsconfig.json`
 
