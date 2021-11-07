@@ -1,5 +1,13 @@
 # learn-ts
 
+### Cheat Sheet
+
+[Basic Types, Enums, Types, Interfaces, Classes, Functions, Generics](./src/index.ts)
+
+### A Good Video
+
+[![Link to Tutorial](https://img.youtube.com/vi/BCg4U1FzODs/0.jpg)](https://www.youtube.com/watch?v=BCg4U1FzODs)
+
 ## Setup
 
 ### Getting Typescript in your project
@@ -51,9 +59,3 @@ npx tsc --init
 ```
 npx create-react-app my-app --template typescript
 ```
-
-### TypeScript Cheat Sheet + Tutorial Video
-
-[Basic Types, Enums, Types, Interfaces, Classes, Functions, Generics](./src/index.ts)
-
-[![Link to Tutorial](https://img.youtube.com/vi/BCg4U1FzODs/0.jpg)](https://www.youtube.com/watch?v=BCg4U1FzODs)
