@@ -1,4 +1,4 @@
-# Learn-Ts
+# learn-ts
 
 ## Setup
 
